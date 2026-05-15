@@ -1,4 +1,4 @@
-# Retail Sales Analytics Project Documentation
+# Retail Sales Analytics Project Documentation 
 
 ## 1\. Dataset Overview
 
